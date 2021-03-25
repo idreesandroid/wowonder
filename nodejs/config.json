@@ -1,0 +1,8 @@
+{
+    "sql_db_host": "localhost",
+    "sql_db_user": "root",
+    "sql_db_pass": "",
+    "sql_db_name": "wowonder",
+    "site_url": "http://localhost/wowonder",
+    "purchase_code": "abc13246564asdfaasdfdsaf"
+}

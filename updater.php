@@ -1,0 +1,3 @@
+<?php 
+#!php-inline return;
+}
